@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: #47600F;
+    color: #BEE082
+}
+body {
+    background-color: #BEE082;
+}
+section {
+    background-color: #8DAB6D;
+    text-align:center;
+    Margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 50%;
+}
