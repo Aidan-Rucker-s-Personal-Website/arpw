@@ -16,3 +16,12 @@ section {
 h4 {
     text-align: left;
 }
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#8DAB6D;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+}
