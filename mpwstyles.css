@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     background-color: #47600F;
-    color: #BEE082
+    color: #BEE082;
 }
 body {
     background-color: #BEE082;
@@ -12,4 +12,7 @@ section {
     Margin-left: 10%;
     margin-right: 10%;
     padding-bottom: 50%;
+}
+h4 {
+    text-align: left;
 }
